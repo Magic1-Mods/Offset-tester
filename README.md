@@ -3,7 +3,7 @@
   <img src="https://img.shields.io/badge/Arch-ARMv7%20%7C%20ARM64-1976D2?style=flat-square" />
   <img src="https://img.shields.io/badge/Unity-IL2CPP-FF6F00?style=flat-square" />
   <br/><br/>
-  <h1>⚡ Magic Offset Tester</h1>
+  <h1>Magic Offset Tester</h1>
   <p><b>A powerful on-device runtime offset testing & memory manipulation tool for Android game reversing</b></p>
 </div>
 
